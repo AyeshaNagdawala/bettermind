@@ -8,7 +8,7 @@ Our Website Numerous features allow you to monitor your mental health and learn 
 
 **Snippets :**
 
-**login/signup**
+## **login/signup**
 ![Screenshot 2023-02-05 142453](https://user-images.githubusercontent.com/111572744/216810370-4b26b108-6a54-4145-abed-a6c7afcab70a.png)
 ![Screenshot 2023-02-05 142521](https://user-images.githubusercontent.com/111572744/216810426-e007878e-b577-4692-9e08-9ff607400e83.png)
 **Home page**
