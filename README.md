@@ -2,7 +2,7 @@
 # Bettter Mind
 *A 360° solution to mental health issues*
 
-**Intro :**The goal of this application is to improve mental health outcomes by providing individuals with the tools and resources they need to better understand and manage their mental health, and empower them to take an active role in their own well-being. Additionally, the application will be able to provide support for mental health research by providing data for researchers to help them understand trends, patterns and other key information to improve mental health outcomes.
+**Intro :** The goal of this application is to improve mental health outcomes by providing individuals with the tools and resources they need to better understand and manage their mental health, and empower them to take an active role in their own well-being. Additionally, the application will be able to provide support for mental health research by providing data for researchers to help them understand trends, patterns and other key information to improve mental health outcomes.
 
 
 **Snippets :**
