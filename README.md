@@ -2,12 +2,13 @@
 # Bettter Mind
 *A 360° solution to mental health issues*
 
-**Intro :** Mental health issues are getting worse every day, yet only half of the world has acknowledged this as a real problem, and the other half is still
-unaware of it.We address this by establishing a positive air of tranquilly with the aid of our website.The quality of your mental health is just as important as how you view yourself physically when it comes to healthcare. Many people who are struggling psychologically have a tendency to develop patterns in their daily activities, with the first one being their word choice, google searches, etc.
-Our Website Numerous features allow you to monitor your mental health and learn how to improve it.
+**Intro :**The goal of this application is to improve mental health outcomes by providing individuals with the tools and resources they need to better understand and manage their mental health, and empower them to take an active role in their own well-being. Additionally, the application will be able to provide support for mental health research by providing data for researchers to help them understand trends, patterns and other key information to improve mental health outcomes.
+
 
 **Snippets :**
-
+## **Use Cases**
+![Screenshot 2023-02-05 145951](https://user-images.githubusercontent.com/111572744/216811585-b93a0241-17e6-4672-ac55-323e9801ef6b.png)
+![Screenshot 2023-02-05 150030](https://user-images.githubusercontent.com/111572744/216811587-2594cc87-b357-49ca-9715-4471c2ae2768.png)
 ## **Login ans Signup**
 ![Screenshot 2023-02-05 142453](https://user-images.githubusercontent.com/111572744/216810370-4b26b108-6a54-4145-abed-a6c7afcab70a.png)
 ![Screenshot 2023-02-05 142521](https://user-images.githubusercontent.com/111572744/216810426-e007878e-b577-4692-9e08-9ff607400e83.png)
@@ -35,4 +36,5 @@ Our Website Numerous features allow you to monitor your mental health and learn 
 
 ## **About Us**
 ![Screenshot 2023-02-05 141106](https://user-images.githubusercontent.com/111572744/216810495-d290bfae-2f19-4674-97ea-c68e5ff5d71d.png)
+
 
