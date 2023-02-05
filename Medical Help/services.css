@@ -1,0 +1,219 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,700&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box
+}
+
+body{
+    font-family:  'Poppins', sans-serif;
+    color:#8a2ce2;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+
+.container{
+    padding-left: 100px;
+    padding-right: 100px;
+
+}
+
+.header{
+    padding: 20px;
+    background-color:rgb(1, 1, 13);
+    font-weight: 800;
+    font-size: 50px;
+    width: 100%;
+    height: 120px;
+}
+
+.flex{
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+}
+
+.logo{
+    width: 200px;
+    /* border-radius: 50%; */
+    display: inline-block
+}
+
+.navbar{
+    font-size: 20px;
+    justify-content: space-between;
+}
+
+.nav-links{
+    gap: 20px;
+    padding-bottom: 0%;
+}
+
+.links{
+    color: antiquewhite;
+}
+
+.links:hover{
+    color: burlywood;
+}
+
+.text{
+    color:#8a2be2;
+    text-align: left;
+    font-size: 50px;
+    text-align: left !important;
+}
+
+.button{
+    background-color: beige;
+    font-weight: 700;
+    border-radius: 6px;
+    color: black;
+    padding: 5px;
+}
+
+.linksm:hover{
+    background-color:#8a2be2;
+}
+
+
+/* MAIN CONTENT */
+
+.main-container{
+    padding: 50px 100px 50px 100px;
+}
+
+.leading{
+    color:#8a2be2;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+
+#name{
+    text-align: center;
+}
+
+.therapy{
+    display: flex;
+    flex-direction: column;
+    align-items:center
+}
+
+.therapist{
+    margin-top: 50px;
+    justify-content: space-between;
+    gap: 50px;
+}
+
+#cc{
+    font-weight: 400;
+    color: black;
+}
+
+.description{
+    align-items: center;
+}
+
+.session-link{
+    padding: 4px;
+    color: rgb(255, 255, 255);
+}
+
+#bn{
+    align-self: center;
+    border-radius: 5px;
+    font-size: 15px;
+    background-color: #9d55e0;
+}
+
+#bn:hover{
+    background-color: #8a2be2;
+}
+
+#me{
+    padding-top: 5px;
+}
+
+.img img{
+    width: 300px;
+}
+
+.main-pannel{
+    margin-top: 25%;
+    height: 100px;
+    width: 100%;
+}
+
+.image1 img{
+    width:50px
+}
+
+
+
+.sub-pannel{
+    flex-direction:row;
+
+}
+
+
+
+/* footer */
+
+.box{
+    color: black;
+    padding: 00 50px 00 50px;
+    margin-top: 50px;
+    padding-top: 8px;
+    width:100%;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    gap:120px;
+}
+
+
+.logoinfo{
+    width: 30%;
+    
+}
+
+.aboutinfo{
+    width:60%;
+    justify-content:space-between
+}
+
+/* sub-footer */
+
+hr{
+    height: 4px;
+    background-color: black;
+}
+
+.sub-footer{
+    height: 50px;
+}
+
+.icons{
+    padding-top: 20px;
+    padding-bottom: 25px;
+    width: 70%;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 35%;
+    font-size:xx-large;
+}
+
+.gg{
+    color: #8a2be2;
+}
+
+
+

@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    color: #8a2be2;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* NAVBAR */
+
+.navContainer {
+    height: 60px;
+    background-color: #ffffff;
+}
+
+.navlogo {
+    width: 15%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 0px 20px;
+    /* align-items: center; */
+}
+
+
+.logoimg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.navlinks {
+    width: 65%;
+    background-color: #ffffff;
+}
+
+.navItems {
+    list-style: none;
+    height: 60px;
+    margin-top: 10px;
+    justify-content: space-between;
+    padding: 0px 60px 0px 60px;
+    line-height: 60px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.link {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+
+.links {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color:#132F2B;
+}
+
+.link:hover{
+    color: #8A2CE2;
+}
+
+
+
+.navlogin {
+    width: 20%;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+button {
+    width: 7em;
+    height: 3em;
+    border-radius: 30em;
+    font-size: 15px;
+    font-weight: 600;
+    border: none;
+    margin-top: 7px;
+    background-color: #ffffff;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    box-shadow: 6px 6px 12px #ffffff,
+        -6px -6px 12px #e3dbe5;
+}
+
+button::before {
+    content: '';
+    width: 0;
+    height: 3em;
+    border-radius: 30em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-image: linear-gradient(to right, #8A2CE2 0%, #c2c2da 100%);
+    transition: .5s ease;
+    display: block;
+    z-index: -1;
+}
+
+button:hover::before {
+    width: 9em;
+}
+
+.loginbutton:hover::before {
+    width: 9em;
+}
+
+/* 
+.header {
+    padding: 20px;
+    background-color: rgb(1, 1, 13);
+    font-weight: 800;
+    font-size: 50px;
+    width: 100%;
+    height: 120px;
+    margin-bottom: 25px;
+} */
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+
+
+.links {
+    color: rgb(14, 8, 0);
+}
+
+
+
+
+/* .text {
+    color: #8a2be2;
+    text-align: left;
+    font-size: 50px;
+    text-align: left !important;
+} */
+
+/* .button {
+    background-color: beige;
+    font-weight: 700;
+    border-radius: 6px;
+    color: black;
+    padding: 5px;
+}
+
+.linksm:hover {
+    background-color:#8a2be2
+} */
+
+/* main-chat */
+
+.main-chat-container {
+    padding: 50px 100px 50px 100px;
+}
+
+.written{
+    color: #8a2be2;
+    width: 800px;
+    height: 400px;
+}
+
+.chat{
+    right: 40px;
+}
+
+.group-links{
+    padding-top: 20px;
+    color: black;
+}
+
+.gname{
+    font-weight: 900;
+
+}
+
+.join{
+    padding: 6px 10px 6px 10px;
+    background-color: #a96ee0;
+    border-radius: 10px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.join:hover{
+    background-color: blueviolet;
+    justify-content: space-between;
+}
+
+.chat img{
+    width:700px ;
+}
+
+.image2 img{
+    width:700px;
+}
+
+
+
+.community{
+    padding-top: 50px;
+}
+
+.explore{
+    font-weight: 900;
+    color:#a96ee0;
+    padding-bottom: 10px;
+}
+
+.explore:hover{
+    color: #8a2be2;
+}
+
+
+.written2{
+    padding-left: 30px;
+}
+
+.Discord{
+    padding-top: 50px;
+    gap:20px;
+    flex-direction: row-reverse;
+}
+
+
+/* FOOTER */
+
+.footerContainer{
+    height: 300px;
+    justify-content:space-between;
+    padding: 20px;
+    gap: 70px;
+}
+
+.LogoAndText{
+    width: 25%;
+    flex-direction: column;
+    color: #000000;
+}
+
+.logo .logotext{
+    padding: 20px;
+}
+
+.AboutInfo{
+    width: 75%;
+    justify-content: space-around;
+    padding:50px;
+}
+
+.list{
+    list-style: none;
+}
+
+.gg{
+    text-decoration: none;;
+}
+
+.alink{
+    text-decoration: none;
+    color: black;
+
+}
+
+
+
+
+
+/* sub-footer */
+
+hr{
+    height: 4px;
+    background-color: black;
+}
+
+.sub-footer{
+    height: 50px;
+}
+
+.icons{
+    padding-top: 20px;
+    padding-bottom: 25px;
+    width: 70%;
+    justify-content: space-between;
+    text-align: center;
+    padding-left: 35%;
+    font-size:xx-large;
+}
+
+.gg{
+    color: #8A2CE2;
+    text-decoration: none;
+}
