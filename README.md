@@ -6,10 +6,10 @@
 
 
 **Snippets :**
-## **Use Cases**
+## **Ideas Developed**
 ![Screenshot 2023-02-05 145951](https://user-images.githubusercontent.com/111572744/216811585-b93a0241-17e6-4672-ac55-323e9801ef6b.png)
 ![Screenshot 2023-02-05 150030](https://user-images.githubusercontent.com/111572744/216811587-2594cc87-b357-49ca-9715-4471c2ae2768.png)
-## **Login ans Signup**
+## **Login and Signup**
 ![Screenshot 2023-02-05 142453](https://user-images.githubusercontent.com/111572744/216810370-4b26b108-6a54-4145-abed-a6c7afcab70a.png)
 ![Screenshot 2023-02-05 142521](https://user-images.githubusercontent.com/111572744/216810426-e007878e-b577-4692-9e08-9ff607400e83.png)
 ## **Home page**
